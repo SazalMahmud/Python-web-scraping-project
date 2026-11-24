@@ -1,4 +1,4 @@
-# Books Web Scraping & Data Analysis
+# Python-Based Web Scraping & Data Analysi
 
 ## Project Overview
 A Python-based web scraping and data analysis project using the Books to Scrape website. Collected 1,000 book records from 50 pages and performed data cleaning, feature engineering, and exploratory data analysis (EDA).
